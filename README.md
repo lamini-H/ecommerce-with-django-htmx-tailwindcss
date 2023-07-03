@@ -1,2 +1,2 @@
 # ecommerce-with-django-htmx-tailwindcss
-This project involving using django, htmx and tailwindcss to create ecommerce website. The project also implemented stripe payment
+This project involved using Django, HTMX and tailwind css to create ecommerce website. The project also implemented stripe payment
