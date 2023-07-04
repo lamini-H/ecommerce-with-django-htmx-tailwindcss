@@ -1,0 +1,119 @@
+Part 1 - Todolist
+    -Install and create a virtual environment - Done
+    -Install and create an empty Django project - Done
+    -Walkthrough of the files - Done
+Part 2 - 
+    - Create app for main pages - Done
+    - Create a simple base.html file - Done
+    - Extend base.html and use for front pages - Done
+    - Add "products" to front page -Done
+Part 3 -
+    - Create app for products -Done
+    -Create database model for category -Done
+    -Add category in admin interface -Done
+    -Create database model for products -Done
+    -Add a few products in the admin interface -Done
+    -Show products on the front page - Done
+Part 4 - 
+    -Create html for the category/shop page - Done
+    -Create html for the product detail page - Done
+Part 5
+    -Show category in the sidebar -Done
+    -Show active category -Done
+    -Simple product Search -Done
+Part 6
+    - Fix djnamic information in product list
+    - Make product list resuable
+    - Show prdouct detail page
+Part 7
+    -Create django app for the cart - Done
+    -Create a cart class  - Done
+    -Make cart globally available - Done
+
+Part 8
+    - Create view for adding to cart - Done
+    -Include htmx cdn (<script src="https://unpkg.com/htmx.org@1.7.0"></script>)
+    -Create resuable menu cart html - Done
+    -Add to cart - Done
+
+Part 9
+    - Set up html for the sign up page - Done
+    - Set up html for the login page - Done
+    - Add Product images - Done
+
+Part 10 
+    - Make it possible to sign up - Done
+    - Make it possible to logout - Done
+    - Make it possible to log in - Done
+
+Part 11
+    - Make html for the cart page - Done
+    - Make html for the checkout page - Done
+
+Part 12
+    - Add to cart from search/lists - Done
+    - Check if image exist first (product detail) - Done
+    - Fix links in the menu  - Done
+    - Separate urls files  - Done
+    - Add title to the browser -Done
+
+Part 13
+    - Show correct products in the cart -Done
+    - Show total price in the cart -Done
+    - show total price in the checkout - Done
+    - only allow checkout for authenticated users - Done
+    - show user information in the checkout - Done
+    - Change checkout link in the cart - Done
+Part 14
+
+    -Html for the my account page -Done
+    -Add link to my account -Done
+    -Edit account page -Done
+    -Edit account functionality -Done
+
+Part 15
+    - Move cart item html to Separate file - Done 
+    - Add htmx wrapper for menu cart - Done
+    - Create view and url for menu cart -Done
+    - Create view and url for update cart -Done
+    - Add htmx attributes for cart buttons -Done
+    - Update total price - Done
+
+Part 16
+    - Create app for orders - Done
+    - Create database model for orders - Done
+    - Create view and url for the checkout - Done
+    - List correct orders in my account - Done
+
+Part 17 
+    - Fix decrement to zero items - Done
+    - Install and set up stripe - Done
+    - Include public key in the checkout page - Done
+    - Create view or creating checkout session - Done
+    - Validate checkout form and implement stripe Done
+Part 18 
+    - Show errors in the checkout - Done
+    - Change ordering for orders - Done
+    - Create simple success page - Done
+    - Clear cart  - Done
+    - Show correct prices in the orders page - Done
+
+Part 19
+    -Clean up the start-order function - Done
+    -Move menu_cart.html to partials folder - Done
+    - Improve the admin interface
+        - Add filters and search to products - Done
+        - Add filters and search to orders - Done
+        - Show orderitems inline for orders - Done
+    - Mobile styling - Done
+    - Fix links in the cart - Done
+    - Fix header link on the front page - Done
+Part 20
+    - Create new database model for reviews
+    - Create form for reviews
+    - Display reviews
+        -Create a model function
+
+
+    
+    
